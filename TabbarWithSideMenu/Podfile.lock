@@ -1,0 +1,15 @@
+PODS:
+  - RAMAnimatedTabBarController (3.1.0)
+  - SlideMenuControllerSwift (4.0.0)
+
+DEPENDENCIES:
+  - RAMAnimatedTabBarController
+  - SlideMenuControllerSwift
+
+SPEC CHECKSUMS:
+  RAMAnimatedTabBarController: 3c40472db54eda74d465583f8c7f571b206c54d6
+  SlideMenuControllerSwift: 021d6318201c53d4d4d3710517d43d6c556c7dd0
+
+PODFILE CHECKSUM: 3c9a9e7288ef94653a870343381f052cb3c979a0
+
+COCOAPODS: 1.3.1
